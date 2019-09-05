@@ -4,7 +4,9 @@ This project was built as a part of my NLP assignment in my "introduction to Big
 The project is built in jupyter notebook and utilizes Scikit-Learn & NLTK library to perform all the heavy lifting steps of feature extraction and preprocessing of tweets.  
 
 Steps include:
-* punctuation
+* Remove punctuation
+* Stemming
+* Lemmatizing
 * Tokenization
 * Feature extraction
 * Modelling
